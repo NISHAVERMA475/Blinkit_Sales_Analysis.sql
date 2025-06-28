@@ -153,6 +153,5 @@ Insight: Comprehensive outlet performance report based on total sales, average s
 
 Database Used: MySQL
 Tools Used: MySQL Workbench, Microsoft Excel
-
 Schemas:
- ![Schemas](https://github.com/user-attachments/assets/9ac30af9-9b15-4821-9a74-684049ffbba4)
+     ![Schemas](https://github.com/user-attachments/assets/9ac30af9-9b15-4821-9a74-684049ffbba4)
